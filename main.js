@@ -69,8 +69,6 @@ function OpenProductDetailAside(event){
 
 }
 function CloseProductDetailAside(){
-    
-    
     productDetailContainer.classList.add('inactive');
 }
 
